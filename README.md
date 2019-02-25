@@ -5,7 +5,7 @@ image/video-level object detection,
 human pose estimation, 
 multiple object tracking
 )
-used in Posetrack and I will write a tutorial to teach everyone who knows little about deep learning and computer vision to contruct an entire posetrack system.
+used in Posetrack and I will write a tutorial to teach everyone who knows little about deep learning and computer vision to construct an entire posetrack system.
 
 
 
