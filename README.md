@@ -9,9 +9,9 @@ used in Posetrack and I will write a tutorial to teach everyone who knows little
 
 --------------------
 In the Posetrack system, there are 3 more important components.
-- image/video object detection.
-- human pose estimation.
-- multiple object tracking.
+* **image/video object detection.**
+* **human pose estimation.**
+* **multiple object tracking.**
 
 
 
