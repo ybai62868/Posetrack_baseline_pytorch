@@ -1,4 +1,4 @@
-# Posetrack_baseline_pytorch
+# Posetrack-baseline-pytorch
 This is a project which contains all of modules
 (
 image/video-level object detection, 
